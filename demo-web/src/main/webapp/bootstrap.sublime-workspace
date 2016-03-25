@@ -1,0 +1,2484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"discussThinking"
+			],
+			[
+				"ha",
+				"handout"
+			],
+			[
+				"tar",
+				"targetModal"
+			],
+			[
+				"mod",
+				"modal"
+			],
+			[
+				"se",
+				"serializeArray〔function〕"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"aler",
+				"alertify"
+			],
+			[
+				"cou",
+				"coursewareId〔variable〕"
+			],
+			[
+				"cour",
+				"courseware"
+			],
+			[
+				"po",
+				"post〔function〕"
+			],
+			[
+				"atta",
+				"attachmentZip"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"at",
+				"attachmentZip"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"lesson",
+				"lessonId"
+			],
+			[
+				"clo",
+				"closest〔function〕"
+			],
+			[
+				"rem",
+				"removeClass	.removeClass()"
+			],
+			[
+				"mou",
+				"mouseenter	.mouseenter()"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"baseF",
+				"baseBigFairId"
+			],
+			[
+				"data-",
+				"data-original-serial"
+			],
+			[
+				"big",
+				"bigFairId"
+			],
+			[
+				"boot",
+				"boothNumbers"
+			],
+			[
+				"c",
+				"checkbox"
+			],
+			[
+				"page",
+				"page-ul"
+			],
+			[
+				"ser",
+				"serializeArray  (function)"
+			],
+			[
+				"margin-to",
+				"margin-bottom"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"o-box",
+				"-moz-box-shadow:   (property)"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"sp",
+				"specialty"
+			],
+			[
+				"a",
+				"after  (pseudo-class)"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"join",
+				"joinedNumber"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"get",
+				"getSelectedID"
+			],
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/less/new-main.less",
+			"settings":
+			{
+				"buffer_size": 167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/less/lesson.less",
+			"settings":
+			{
+				"buffer_size": 1946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/learn/lesson/lesson-detail.jsp",
+			"settings":
+			{
+				"buffer_size": 14074,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "[{\n    \"title\": \"kejian1\",\n    \"attachment\": \"E:\\\\Wisdombud\\\\ä¸­ç§»åŠ¨é¡¹ç›®\\\\ä¸­ç§»åŠ¨BS\\\\bupt-organ\\\\wisdombud-web\\\\src\\\\main\\\\webapp/atached/extracted/courseware/54ffa7bdfba036b292047ff1\",\n    \"attachmentZip\": \"attached\\\\courseware\\\\2015-03-13\\\\1426216993776_lesson1.zip\",\n    \"description\": \"12\",\n    \"lessonId\": \"54ffa7bdfba036b292047ff1\",\n    \"fileList\": [\"/54ffa7bdfba036b292047ff1/aiqing01.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing02.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing03.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing04.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing05.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing06.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing07.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing08.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing09.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing10.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing11.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing12.jpg\"],\n    \"_id\": \"550258227ead8ce356b1c74c\",\n    \"createTime\": \"2015-03-13\"\n}, {\n    \"title\": \"è¯¾ä»¶1\",\n    \"attachment\": \"/atached/extracted/courseware/54ffa7bdfba036b292047ff1\",\n    \"attachmentZip\": \"attached\\\\courseware\\\\2015-03-13\\\\1426217687970_lesson1.zip\",\n    \"description\": \"12\",\n    \"lessonId\": \"54ffa7bdfba036b292047ff1\",\n    \"fileList\": [\"/54ffa7bdfba036b292047ff1/aiqing01.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing02.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing03.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing04.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing05.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing06.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing07.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing08.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing09.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing10.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing11.jpg\", \"/54ffa7bdfba036b292047ff1/aiqing12.jpg\"],\n    \"_id\": \"55025ad87eada5972f021336\",\n    \"createTime\": \"2015-03-13\"\n}, {\n    \"title\": \"21\",\n    \"attachment\": \"/atached/extracted/courseware/54ffa8dffba094cc04948fbe\",\n    \"attachmentZip\": \"attached\\\\courseware\\\\2015-03-13\\\\1426217776277_lesson1.zip\",\n    \"description\": \"12\",\n    \"lessonId\": \"54ffa8dffba094cc04948fbe\",\n    \"fileList\": [\"/54ffa8dffba094cc04948fbe/aiqing01.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing02.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing03.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing04.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing05.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing06.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing07.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing08.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing09.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing10.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing11.jpg\", \"/54ffa8dffba094cc04948fbe/aiqing12.jpg\"],\n    \"_id\": \"55025b377eada5972f021337\",\n    \"createTime\": \"2015-03-13\"\n}, {\n    \"title\": \"121\",\n    \"attachment\": \"/atached/extracted/courseware/54ffad91fba069a0e27203ee\",\n    \"attachmentZip\": \"attached\\\\courseware\\\\2015-03-13\\\\1426217866735_lesson1.zip\",\n    \"description\": \"121\",\n    \"lessonId\": \"54ffad91fba069a0e27203ee\",\n    \"fileList\": [\"aiqing01.jpg\", \"aiqing02.jpg\", \"aiqing03.jpg\", \"aiqing04.jpg\", \"aiqing05.jpg\", \"aiqing06.jpg\", \"aiqing07.jpg\", \"aiqing08.jpg\", \"aiqing09.jpg\", \"aiqing10.jpg\", \"aiqing11.jpg\", \"aiqing12.jpg\"],\n    \"_id\": \"55025b8b7eadc550c9b41a9e\",\n    \"createTime\": \"2015-03-13\"\n}, {\n    \"title\": \"123\",\n    \"attachment\": \"/atached/extracted/courseware/54ffa7bdfba036b292047ff1\",\n    \"attachmentZip\": \"attached/courseware/2015-03-13/1426218512518_lesson1.zip\",\n    \"description\": \"123\",\n    \"lessonId\": \"54ffa7bdfba036b292047ff1\",\n    \"fileList\": [\"aiqing01.jpg\", \"aiqing02.jpg\", \"aiqing03.jpg\", \"aiqing04.jpg\", \"aiqing05.jpg\", \"aiqing06.jpg\", \"aiqing07.jpg\", \"aiqing08.jpg\", \"aiqing09.jpg\", \"aiqing10.jpg\", \"aiqing11.jpg\", \"aiqing12.jpg\"],\n    \"_id\": \"55025e10ef8607e8d514f182\",\n    \"createTime\": \"2015-03-13\"\n}, {\n    \"title\": \"12\",\n    \"attachment\": \"attached/extracted/courseware/54ffb577fba0b314b01c2328\",\n    \"attachmentZip\": \"attached\\\\courseware\\\\2015-03-13\\\\1426219063809_lesson1.zip\",\n    \"description\": \"12\",\n    \"lessonId\": \"54ffb577fba0b314b01c2328\",\n    \"fileList\": [\"aiqing01.jpg\", \"aiqing02.jpg\", \"aiqing03.jpg\", \"aiqing04.jpg\", \"aiqing05.jpg\", \"aiqing06.jpg\", \"aiqing07.jpg\", \"aiqing08.jpg\", \"aiqing09.jpg\", \"aiqing10.jpg\", \"aiqing11.jpg\", \"aiqing12.jpg\"],\n    \"_id\": \"550260387eadc106d927ae23\",\n    \"createTime\": \"2015-03-13\"\n}, {\n    \"title\": \"21\",\n    \"attachment\": \"attached/extracted/courseware/54ffb5a7fba0b314b01c2329\",\n    \"attachmentZip\": \"attached\\\\courseware\\\\2015-03-13\\\\1426219153873_lesson1.zip\",\n    \"description\": \"21\",\n    \"lessonId\": \"54ffb5a7fba0b314b01c2329\",\n    \"fileList\": [\"aiqing01.jpg\", \"aiqing02.jpg\", \"aiqing03.jpg\", \"aiqing04.jpg\", \"aiqing05.jpg\", \"aiqing06.jpg\", \"aiqing07.jpg\", \"aiqing08.jpg\", \"aiqing09.jpg\", \"aiqing10.jpg\", \"aiqing11.jpg\", \"aiqing12.jpg\"],\n    \"_id\": \"550260927eadd21423cefdd3\",\n    \"createTime\": \"2015-03-13\"\n}]",
+			"settings":
+			{
+				"buffer_size": 4767,
+				"line_ending": "Unix",
+				"name": "[{"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/learn/lesson/handout-modal.jsp",
+			"settings":
+			{
+				"buffer_size": 2209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/learn/lesson/reading-modal.jsp",
+			"settings":
+			{
+				"buffer_size": 1757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/learn/lesson/video-audio-info-modal.jsp",
+			"settings":
+			{
+				"buffer_size": 3045,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/learn/lesson/extra-reading-modal.jsp",
+			"settings":
+			{
+				"buffer_size": 1775,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/learn/lesson/discuss-thinking-modal.jsp",
+			"settings":
+			{
+				"buffer_size": 1129,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/learn/lesson/courseware-modal.jsp",
+			"settings":
+			{
+				"buffer_size": 2091,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/header.jsp",
+			"settings":
+			{
+				"buffer_size": 935,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/less/body-main.less",
+			"settings":
+			{
+				"buffer_size": 6695,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/learn/lesson/lesson-list.jsp",
+			"settings":
+			{
+				"buffer_size": 5522,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/js/admin/learn/lesson/base-lesson.js",
+			"settings":
+			{
+				"buffer_size": 4895,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "WEB-INF/jsp/admin/admin-nav.jsp",
+			"settings":
+			{
+				"buffer_size": 1610,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"syntax:js",
+				"Set Syntax: Java Server Page (JSP)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packagei",
+				"Package Control: List Packages"
+			],
+			[
+				"HTMLPR",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"HTMLPret",
+				"HTMLPrettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/guohuilin/Code/java/workspace-bupt-oranization/bupt-organ/wisdombud-web/src/main/webapp/WEB-INF/jsp/admin/admin-nav.jsp",
+		"/Users/guohuilin/Library/Application Support/Sublime Text 2/Packages/User/less2css.sublime-settings",
+		"/Users/guohuilin/Code/java/workspace-bupt-oranization/bupt-organ/wisdombud-web/src/main/webapp/bootstrap.sublime-project",
+		"/Users/guohuilin/Code/java/workspace-bupt-oranization/bupt-organ/wisdombud-web/src/main/webapp/less/pioneer.less",
+		"/Users/guohuilin/Downloads/tuanwei/less/variables.less",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/written-site-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/my-work/writeen-site-audit.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-writer-reserve.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-job-fair.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-interview-site.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-interview-site-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/my-work/enterprise-interview-site-audit.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/enterprise/base-enterprise.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/plugins/timeline.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/job-fair-detail.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/login.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/login.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/fair/job-fair-add.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/my-work/enterprise-register-audit.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/my-work/enterprise-job-info-audit.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/my-work/enterprise-job-fair-audit.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/pageModel.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/my-work/enterprise-big-fair-audit.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-big-fair-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/fair/job-fair-add.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-job-fair-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/process/auditingEnterprise.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/nav.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-big-fair.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/information/job_recruit.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/enterprise/main/enterprise-big-fair.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/information/enterprise-apply-main.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/big-fair-detail.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/information/reservation-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/home/enterprise/enterpriseHome.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/my-work/enterprise-register-audit.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/information/article-detail.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/information/dic-company-property-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/homePicture/update-picture.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/bulletin/bulletin-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/enterprise/enterprise-home.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/admin-nav.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-recruit-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/bulletin/bulletin-add.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/creat-drop-down-list.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-recruit.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/common/nav.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/large-calendar.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar-0.2.4/less/pku-theme.less",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/tmpls/week.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/fair/big-fair-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar/js/calendar.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/career-pku.sublime-project",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar/css/calendar.min.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/fair/job-fair-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/enterprise-js.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/test.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/tmpls/week-days.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar-0.2.4/js/calendar.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/sec/sec-LogInfo.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar/tmpls/week.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar/tmpls/day.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar-0.2.4/less/grid.less",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar-0.2.4/less/theme.less",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar/tmpls/week-days.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar-0.2.4/less/week.less",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar-0.2.4/less/calendar.less",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar-0.2.4/less/variables.less",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar-0.2.4/tmpls/week-days.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrap-calendar/tmpls/year-month.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/enterprise/enterprise-job-detail-home.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/fair/order-company-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/common/lower-js.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/home.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/index.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/kindeditor-4.1.10/kindeditor.js",
+		"/Users/guohuilin/dumps/wisdombud.log",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/recruit/practice-job-add.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/admin-js.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/recruit/practice-job-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/enterprise/enterprise-job-detail.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrapValidator/dist/js/language/zh_CN.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/enterprise/main/enterprise-information-maintain.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/main/enterprise-information-maintain.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/fair/written-site-list.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/fair/written-site-list.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/fair/big-fair-add.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/enterprise/enterprise-main.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/fair/big-fair-add.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/enterprise/enterprise-register.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/enterprise-header.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/home/lower-sidebar.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/enterprise/enterprise-nav.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/my-work/written-site-audit.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/my-work/enterprise-job-fair-audit.js",
+		"/Users/guohuilin/Desktop/view_all.slq",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/my-work/enterprise-job-info-audit.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/enterprise/register-success.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/policy/common-news.jsp",
+		"/Users/guohuilin/Desktop/test.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/tuanwei.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/home/tuanwei.html",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/information/enterprise-appointment-main.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/admin-header.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/information/anchor-menu.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/job-info-detail.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/common/lower-sidebar.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/news/news-home.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/common/lower-nav.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/login-nav.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/common/lower-sidebar-other.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/common/lower-slider.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/admin/recruit/practice-job-update.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/practice-job/practice-job-list-serch.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/enterprise/job-add-checked.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/js-lib/alertify/css/alertify.bootstrap.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/bower_components/bootstrapValidator/dist/js/bootstrapValidator.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/admin/home-picture/ajaxfileupload.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/common/file-upload.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/plugins/jQuery-fileUpload/jquery.fileupload-ui.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/jQuery-FileUpload/jquery.fileupload.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/plugins/jQuery-fileUpload/main.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/js/plugins/jQuery-fileUpload/jquery.fileupload-validate.js",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/jQuery-FileUpload/jquery.fileupload-add.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/home/enterprise/file-upload.jsp",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/jQuery-FileUpload/jquery.fileupload-ui.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/css/career.css",
+		"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/WEB-INF/jsp/common/change-password-common.jsp"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp",
+			"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/resources/tmpls",
+			"",
+			"/Users/guohuilin/Code/java/wisdombud-ws/pku-career/career-web/src/main/webapp/js-lib/tooltipster/css/themes",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"attachmentZip",
+			"category",
+			"extra-readingTmpl",
+			"actionName",
+			"data-save-dir",
+			"courseware-id",
+			"\">\n",
+			"uploadCoursewareForm",
+			"coursewareContainer",
+			"attachementPath",
+			"lesson-id",
+			"uploadCoursewareForm",
+			"data-category",
+			"courseware",
+			"attachmentZip\nattachmentZip",
+			"attachmentZip\n",
+			"obox",
+			"法律声明",
+			"招聘会地点",
+			"interviewFee",
+			"propagandaFeeCount",
+			"微信单图文",
+			"setTotalFee",
+			"rentFee",
+			"input_totalFee",
+			"totalFee",
+			"input_writtenDay",
+			"email",
+			"办公",
+			"bigFairTitle",
+			"appBigFairSubmit",
+			"information/home!loadPicture",
+			"paramMap",
+			"going_to_url_key",
+			"hidden",
+			"aPicNews0",
+			"entity.attachmententity.attachment",
+			"entity.attachment",
+			"attachementPath",
+			"findAllWrittenSite",
+			"findSelectedIds",
+			"creatBulletinTypeDropDown",
+			"dicBulletinType",
+			"uploadFileName",
+			"updateBulletin",
+			"findSelectedIds",
+			"loadData",
+			"findSelectedIds",
+			"dicBulletinType",
+			"inputEmail3",
+			"editor",
+			"selectpicker",
+			"screenHeight",
+			"content",
+			"writtensite",
+			"interviewsite",
+			"control-label-long  control-label",
+			"control-label3",
+			"control-label2",
+			"<div class=\"form-group\">",
+			"class=\"formGroupLable\"",
+			"interviewsite",
+			"getMonthFormatted",
+			"nav",
+			"calendar-nav",
+			"data-cal-date",
+			"span[data-cal-date]",
+			"cus-cal-",
+			"hover",
+			"cal-column",
+			"<% _.each(events, function(event){ %>\n	<div class=\"cal-row-fluid\">\n		<div class=\"cus-cal-cell1 cus-week-day\" >\n			<%= event.site %>\n		</div>\n		<% _.each(event.occupied, function(occ){ %>\n			<div class=\"cus-cal-cell1 cus-week-day cus-cal-offset<%= occ.start_day + 1%> day-highlight \">\n				<div class=\"col-xs-6\">上午</div>\n				<div class=\"col-xs-6\">下午</div>\n			</div>\n		<% }); %>\n	</div>\n<% }); %>\n",
+			"cal-row-fluid",
+			"hover",
+			"cal-row-fluid",
+			"cal-offset6",
+			"getEventsBetween",
+			"_loadEvents",
+			"strings",
+			"locale",
+			"cal-row-head",
+			"templates",
+			"version",
+			"console",
+			"'",
+			"'\\n",
+			"', '",
+			"\"",
+			"\"\\n",
+			"\", \"",
+			"'",
+			"image",
+			"insertimage",
+			"img",
+			"allocateBoothNumber",
+			"newBoothNumber",
+			"baseBigFairId",
+			"allocateBoothNumber",
+			"isValidBoothNumbers",
+			"getNumberPlace",
+			"batchByNumberPlace",
+			"getSelectedID",
+			"buttonIsDisable",
+			"baseBigFairId",
+			"allocateBoothNumber",
+			"isValidBoothNumbers",
+			"boothNumberRepeat",
+			"allotBoothNo",
+			"small-error-hidden",
+			"orderCompany",
+			"child",
+			"$childChecks",
+			"getSelectedID",
+			"job_recruit.jsp",
+			"siteName",
+			"申请通过时间",
+			"submitRejected",
+			"flowId",
+			"detailPassClick",
+			"auditFlow",
+			"alert",
+			"审核中",
+			"pku_scc",
+			"submitBtn",
+			"jobFairList",
+			"({\n",
+			"/**\n",
+			"slice",
+			"writerForm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"formGroupLable",
+			"control-label-long",
+			"control-label3",
+			"<div class=\"form-group form-group4\">",
+			"class=\"control-label2  control-label\"",
+			"cus-site-",
+			"",
+			";",
+			",",
+			"",
+			";",
+			",",
+			"\"",
+			"checkRepeat",
+			"allocateBoothNumber",
+			"待审核",
+			"pku_scc2",
+			"addInfoForm",
+			"findReservationList",
+			"jobInfo",
+			"jobContent",
+			"h4",
+			"col-sm-9",
+			"",
+			"\\s",
+			"",
+			"=",
+			"&",
+			"wantAttend",
+			"海淀区颐和园路5号",
+			"单位地址",
+			"单位所在地",
+			"单位规模",
+			"单位类型",
+			"单位简介",
+			"单位名称",
+			"单位信息"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/less/new-main.less",
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/less/lesson.less",
+					"settings":
+					{
+						"buffer_size": 1946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1185,
+								1185
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "WEB-INF/jsp/admin/learn/lesson/lesson-detail.jsp",
+					"settings":
+					{
+						"buffer_size": 14074,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										3665,
+										3665
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								6624,
+								6624
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 380.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 4767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								911,
+								921
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "[{",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "WEB-INF/jsp/admin/learn/lesson/handout-modal.jsp",
+					"settings":
+					{
+						"buffer_size": 2209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1369,
+								2034
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 106.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "WEB-INF/jsp/admin/learn/lesson/reading-modal.jsp",
+					"settings":
+					{
+						"buffer_size": 1757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1483,
+								1555
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "WEB-INF/jsp/admin/learn/lesson/video-audio-info-modal.jsp",
+					"settings":
+					{
+						"buffer_size": 3045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1502,
+								1502
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "WEB-INF/jsp/admin/learn/lesson/extra-reading-modal.jsp",
+					"settings":
+					{
+						"buffer_size": 1775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1775,
+								1775
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "WEB-INF/jsp/admin/learn/lesson/discuss-thinking-modal.jsp",
+					"settings":
+					{
+						"buffer_size": 1129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								928,
+								928
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "WEB-INF/jsp/admin/learn/lesson/courseware-modal.jsp",
+					"settings":
+					{
+						"buffer_size": 2091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								144
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "WEB-INF/jsp/admin/header.jsp",
+					"settings":
+					{
+						"buffer_size": 935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "resources/less/body-main.less",
+					"settings":
+					{
+						"buffer_size": 6695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "WEB-INF/jsp/admin/learn/lesson/lesson-list.jsp",
+					"settings":
+					{
+						"buffer_size": 5522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4773,
+								4773
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1302.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "resources/js/admin/learn/lesson/base-lesson.js",
+					"settings":
+					{
+						"buffer_size": 4895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								942,
+								1014
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 124.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "WEB-INF/jsp/admin/admin-nav.jsp",
+					"settings":
+					{
+						"buffer_size": 1610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1357,
+								1357
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Java/Java Server Pages (JSP).tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"base-lesson.js",
+				"resources/js/admin/learn/lesson/base-lesson.js"
+			],
+			[
+				"header.jsp",
+				"WEB-INF/jsp/admin/header.jsp"
+			],
+			[
+				"admin-nav.jsp",
+				"WEB-INF/jsp/admin/admin-nav.jsp"
+			],
+			[
+				"header",
+				"WEB-INF/jsp/admin/header.jsp"
+			],
+			[
+				"lesson-deta",
+				"WEB-INF/jsp/admin/learn/lesson/lesson-detail.jsp"
+			],
+			[
+				"style",
+				"resources/css/style.css"
+			],
+			[
+				"login.js",
+				"resources/js/login.js"
+			],
+			[
+				"login.jsp",
+				"WEB-INF/jsp/login.jsp"
+			],
+			[
+				"job-fair-add.js",
+				"resources/js/admin/fair/job-fair-add.js"
+			],
+			[
+				"timel",
+				"resources/css/plugins/timeline.css"
+			],
+			[
+				"base-enterprise.js",
+				"resources/js/admin/enterprise/base-enterprise.js"
+			],
+			[
+				"page",
+				"resources/css/pageModel.css"
+			],
+			[
+				"enterprisehome.js",
+				"resources/js/home/enterprise/enterpriseHome.js"
+			],
+			[
+				"enterprise-register-audit.js",
+				"resources/js/admin/my-work/enterprise-register-audit.js"
+			],
+			[
+				"enterprise-big-fair.js",
+				"resources/js/enterprise/main/enterprise-big-fair.js"
+			],
+			[
+				"reservation-list.jsp",
+				"WEB-INF/jsp/information/reservation-list.jsp"
+			],
+			[
+				"dic-company-property-list.jsp",
+				"WEB-INF/jsp/information/dic-company-property-list.jsp"
+			],
+			[
+				"nav",
+				"resources/css/nav.css"
+			],
+			[
+				"jsp/login.jsp",
+				"WEB-INF/jsp/login.jsp"
+			],
+			[
+				"nav.jsp",
+				"WEB-INF/jsp/common/nav.jsp"
+			],
+			[
+				"creat-drop-down-list.js",
+				"resources/js/creat-drop-down-list.js"
+			],
+			[
+				"admin-nav",
+				"WEB-INF/jsp/admin/admin-nav.jsp"
+			],
+			[
+				"calendar.js",
+				"bower_components/bootstrap-calendar/js/calendar.js"
+			],
+			[
+				"enterprise-js.jsp",
+				"WEB-INF/jsp/enterprise/enterprise-js.jsp"
+			],
+			[
+				"calendar",
+				"bower_components/bootstrap-calendar-0.2.4/js/calendar.js"
+			],
+			[
+				"test",
+				"test.html"
+			],
+			[
+				"login",
+				"WEB-INF/jsp/admin/sec/sec-LogInfo.jsp"
+			],
+			[
+				"js/login.js",
+				"resources/js/login.js"
+			],
+			[
+				"common/lower-js.jsp",
+				"WEB-INF/jsp/home/common/lower-js.jsp"
+			],
+			[
+				"kind",
+				"bower_components/kindeditor-4.1.10/kindeditor.js"
+			],
+			[
+				"big-fair-list.jsp",
+				"WEB-INF/jsp/admin/fair/big-fair-list.jsp"
+			],
+			[
+				"bootstrapvalidator/dist/js/language/zh_cn.js",
+				"bower_components/bootstrapValidator/dist/js/language/zh_CN.js"
+			],
+			[
+				"admin-js.jsp",
+				"WEB-INF/jsp/admin/admin-js.jsp"
+			],
+			[
+				"enterprise-information-maintain.js",
+				"resources/js/enterprise/main/enterprise-information-maintain.js"
+			],
+			[
+				"job-fair-list.jsp",
+				"WEB-INF/jsp/admin/fair/job-fair-list.jsp"
+			],
+			[
+				"written-site-list.js",
+				"resources/js/admin/fair/written-site-list.js"
+			],
+			[
+				"lower-js.jsp",
+				"WEB-INF/jsp/home/common/lower-js.jsp"
+			],
+			[
+				"lower",
+				"resources/css/home/lower-sidebar.css"
+			],
+			[
+				"enterprise-header.jsp",
+				"WEB-INF/jsp/enterprise/enterprise-header.jsp"
+			],
+			[
+				"big-fair-add.js",
+				"resources/js/admin/fair/big-fair-add.js"
+			],
+			[
+				"pagemo",
+				"resources/css/pageModel.css"
+			],
+			[
+				"written-site-audit.js",
+				"resources/js/admin/my-work/written-site-audit.js"
+			],
+			[
+				"enterprise-job-fair-audit.js",
+				"resources/js/admin/my-work/enterprise-job-fair-audit.js"
+			],
+			[
+				"enterprise-job-info-audit.js",
+				"resources/js/admin/my-work/enterprise-job-info-audit.js"
+			],
+			[
+				"pagem",
+				"resources/css/pageModel.css"
+			],
+			[
+				"admin",
+				"WEB-INF/jsp/admin/admin-nav.jsp"
+			],
+			[
+				"anchor-menu.js",
+				"resources/js/information/anchor-menu.js"
+			],
+			[
+				"index.jsp",
+				"WEB-INF/jsp/index.jsp"
+			],
+			[
+				"index",
+				"WEB-INF/jsp/index.jsp"
+			],
+			[
+				"lower-sidebar.jsp",
+				"WEB-INF/jsp/home/common/lower-sidebar.jsp"
+			],
+			[
+				"lower-sidebar-other.jsp",
+				"WEB-INF/jsp/home/common/lower-sidebar-other.jsp"
+			],
+			[
+				"lower-nav.jsp",
+				"WEB-INF/jsp/home/common/lower-nav.jsp"
+			],
+			[
+				"lower-slider.jsp",
+				"WEB-INF/jsp/home/common/lower-slider.jsp"
+			],
+			[
+				"",
+				"resources/css/nav.css"
+			],
+			[
+				"enterprise-job-detail.jsp",
+				"WEB-INF/jsp/admin/enterprise/enterprise-job-detail.jsp"
+			],
+			[
+				"admin-header.jsp",
+				"WEB-INF/jsp/admin/admin-header.jsp"
+			],
+			[
+				"practice-job-list-serch.js",
+				"resources/js/admin/practice-job/practice-job-list-serch.js"
+			],
+			[
+				"job-add-checked.js",
+				"resources/js/admin/enterprise/job-add-checked.js"
+			],
+			[
+				"bootstrapva",
+				"bower_components/bootstrapValidator/dist/js/bootstrapValidator.js"
+			],
+			[
+				"ajaxfileupload",
+				"resources/js/admin/home-picture/ajaxfileupload.js"
+			],
+			[
+				"pagemodel.css",
+				"resources/css/pageModel.css"
+			],
+			[
+				"jquery.fileupload-validate.js",
+				"resources/js/plugins/jQuery-fileUpload/jquery.fileupload-validate.js"
+			],
+			[
+				"jquery.fileupload-ui.js",
+				"resources/js/plugins/jQuery-fileUpload/jquery.fileupload-ui.js"
+			],
+			[
+				"main.js",
+				"resources/js/plugins/jQuery-fileUpload/main.js"
+			],
+			[
+				"jquery.fileupload-add.css",
+				"resources/css/jQuery-FileUpload/jquery.fileupload-add.css"
+			],
+			[
+				"jquery.fileupload-ui.css",
+				"resources/css/jQuery-FileUpload/jquery.fileupload-ui.css"
+			],
+			[
+				"career",
+				"resources/css/career.css"
+			],
+			[
+				"enterprise-recruit.jsp",
+				"WEB-INF/jsp/enterprise/main/enterprise-recruit.jsp"
+			],
+			[
+				"enterprise-recruit-list.jsp",
+				"WEB-INF/jsp/enterprise/main/enterprise-recruit-list.jsp"
+			],
+			[
+				"re",
+				"resources/css/reset.css"
+			],
+			[
+				"ind",
+				"js-lib/tooltipster/index.html"
+			],
+			[
+				"common/change-password-common.jsp",
+				"WEB-INF/jsp/common/change-password-common.jsp"
+			],
+			[
+				"bulletin-manager-list-search.js",
+				"resources/js/bulletin/bulletin-manager-list-search.js"
+			],
+			[
+				"lower-sidebar.css",
+				"resources/css/home/lower-sidebar.css"
+			],
+			[
+				"common/lower-nav.jsp",
+				"WEB-INF/jsp/home/common/lower-nav.jsp"
+			],
+			[
+				"lower-header.jsp",
+				"WEB-INF/jsp/home/common/lower-header.jsp"
+			],
+			[
+				"css/career.css",
+				"resources/css/career.css"
+			],
+			[
+				"jquery-pa",
+				"resources/css/jquery-page-style.css"
+			],
+			[
+				"jquery",
+				"js-lib/tooltipster/js/jquery.tooltipster.js"
+			],
+			[
+				"lower-",
+				"resources/css/home/lower-sidebar.css"
+			],
+			[
+				"lower-si",
+				"resources/css/home/lower-sidebar.css"
+			],
+			[
+				"log",
+				"resources/js/login.js"
+			],
+			[
+				"styl",
+				"resources/css/style.css"
+			],
+			[
+				"tools",
+				"js-lib/tooltipster/css/tooltipster.css"
+			],
+			[
+				"fair-calendar.js",
+				"resources/js/fair-calendar.js"
+			],
+			[
+				"lower-c",
+				"resources/css/home/lower-sidebar.css"
+			],
+			[
+				"home/dispatch-notice-home.jsp",
+				"WEB-INF/jsp/home/dispatch-notice-home.jsp"
+			],
+			[
+				"home/employment-news-home.jsp",
+				"WEB-INF/jsp/home/employment-news-home.jsp"
+			],
+			[
+				"reset.css",
+				"resources/css/reset.css"
+			],
+			[
+				"style.css",
+				"resources/css/style.css"
+			],
+			[
+				"lower-sider",
+				"resources/css/home/lower-sidebar.css"
+			],
+			[
+				"big-fair",
+				"resources/js/enterprise/main/enterprise-big-fair.js"
+			],
+			[
+				"big",
+				"resources/js/admin/fair/big-fair-add.js"
+			],
+			[
+				"big-f",
+				"resources/js/admin/fair/big-fair-add.js"
+			],
+			[
+				"tooltipster.css",
+				"js-lib/tooltipster/css/tooltipster.css"
+			],
+			[
+				"lower-sidebar",
+				"resources/css/home/lower-sidebar.css"
+			],
+			[
+				"enterprise-big-fair-list.jsp",
+				"WEB-INF/jsp/enterprise/main/enterprise-big-fair-list.jsp"
+			],
+			[
+				"bootstrapvalidator.js",
+				"bower_components/bootstrapValidator/dist/js/bootstrapValidator.js"
+			],
+			[
+				"unde",
+				"js-lib/underscore-min.js"
+			],
+			[
+				"career.css",
+				"resources/css/career.css"
+			],
+			[
+				"bootstrap",
+				"js-lib/bootstrap-paginator.js"
+			],
+			[
+				"lower-job-info-detail.css",
+				"resources/css/home/lower-job-info-detail.css"
+			],
+			[
+				"formaities-right.jsp",
+				"WEB-INF/jsp/home/formaities-right.jsp"
+			],
+			[
+				"boostrap",
+				"js-lib/bootstrap-paginator.js"
+			],
+			[
+				"bootstrap-pa",
+				"js-lib/bootstrap-paginator.js"
+			],
+			[
+				"big-fair-list.js",
+				"resources/js/admin/fair/big-fair-list.js"
+			],
+			[
+				"bootstrap-datetimepicker.js",
+				"bower_components/bootstrap-datetimepicker-0.0.11/js/bootstrap-datetimepicker.js"
+			],
+			[
+				"admin-hea",
+				"WEB-INF/jsp/admin/admin-header.jsp"
+			],
+			[
+				"jquery.dia",
+				"com.wisdombud.education.website/src/main/webapp/resource/dialog/jquery.dialog.js"
+			],
+			[
+				"top.jsp",
+				"com.wisdombud.education.website/src/main/webapp/WEB-INF/commons/top.jsp"
+			],
+			[
+				"news/list.jsp",
+				"com.wisdombud.education.website/src/main/webapp/WEB-INF/news/list.jsp"
+			],
+			[
+				"recruitment/main.jsp",
+				"com.wisdombud.education.website/src/main/webapp/WEB-INF/recruitment/main.jsp"
+			],
+			[
+				"composite.jsp",
+				"com.wisdombud.education.website/src/main/webapp/WEB-INF/home/composite.jsp"
+			],
+			[
+				"default",
+				"bower_components/kindeditor-4.1.10/examples/default.html"
+			],
+			[
+				"simple",
+				"bower_components/kindeditor-4.1.10/examples/simple.html"
+			],
+			[
+				"jquery.tooltipster.js",
+				"js-lib/tooltipster/js/jquery.tooltipster.js"
+			],
+			[
+				"fair-ca",
+				"resources/js/fair-calendar.js"
+			],
+			[
+				"blank.html",
+				"tz/pages/examples/blank.html"
+			],
+			[
+				"header.less",
+				"tz/less/header.less"
+			],
+			[
+				"js-container.jsp",
+				"career-web/src/main/webapp/WEB-INF/jsp/common/js-container.jsp"
+			],
+			[
+				"common/nav.jsp",
+				"career-web/src/main/webapp/WEB-INF/jsp/common/nav.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true
+}

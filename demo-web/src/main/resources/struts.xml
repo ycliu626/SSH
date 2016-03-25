@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <constant name="struts.i18n.encoding" value="utf-8" />
+    <constant name="struts.custom.i18n.resources" value="appResource" />
+    <constant name="struts.enable.DynamicMethodInvocation" value="true" />
+    <!-- <constant name="struts.devMode" value="true"/> -->
+    <!-- 必须设置不然标签无法调用静态方法 -->
+    <constant name="struts.ognl.allowStaticMethodAccess" value="true"/>
+    <constant name="struts.multipart.maxSize" value="500000000" />
+    <constant name="struts.multipart.saveDir" value="/tmp" />
+    <constant name="struts.convention.package.locators" value="web,action" />
+    <!-- 默认所有的结果页面都存储在WEB-INF/content下 -->
+    <constant name="struts.convention.result.path" value="/WEB-INF/jsp" />
+    <!-- 去掉类名的Action部分。然后将将每个分部的首字母转为小写，用’-’分割  -->
+    <constant name="struts.convention.action.name.separator" value="-" />
+
+    <!-- 不配置的话，jetty将无法使用welcome-list-file进行跳转 <package name="home" namespace="/" extends="struts-default"> <default-action-ref name="index" /> <action name="index" > <result name="success">/index.jsp</result> </action> </package> -->
+
+    <!-- 定义含权限检查拦截器包，供其他模块引用 -->
+    <package name="struts-default-user" extends="struts-default">
+
+
+        <!--定义全局Result -->
+        <global-results>
+        	<result name="404">/404.jsp</result>
+        	<result name="500">/500.jsp</result>
+            <result name="json_data">/WEB-INF/jsp/json_data.jsp</result>
+            <result name="tologin" type="redirectAction">login.action</result>
+        </global-results>
+    </package>
+
+        <!-- 定义含权限检查拦截器包，供其他模块引用 -->
+    <package name="struts-default-student"  extends="struts-default">
+
+        <!--定义全局Result -->
+        <global-results>
+        	<result name="404">/404.jsp</result>
+        	<result name="500">/500.jsp</result>
+            <result name="json_data">/WEB-INF/jsp/json_data.jsp</result>
+            <result name="tologin" type="redirectAction">../home</result>
+        </global-results>
+    </package>
+
+</struts>

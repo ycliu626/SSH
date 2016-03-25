@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util" xmlns:tx="http://www.springframework.org/schema/tx" xmlns:aop="http://www.springframework.org/schema/aop" xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd
+   http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd" default-autowire="byName">
+<!-- 事务管理器配置, Hibernate单数据源事务 -->
+    <bean id="transactionManager" class="org.springframework.orm.hibernate3.HibernateTransactionManager">
+    <property name="sessionFactory" ref="sessionFactory" />
+    </bean>
+
+    <!-- 1.使用annotation定义事务 -->
+    <!-- proxy-target-class ture:动态代理(需cglib类库的支持) false:接口(Spring默认方式) -->
+    <tx:annotation-driven transaction-manager="transactionManager" proxy-target-class="true" />
+
+    <!-- proxy-target-class true:CGLIB代理 false:JDK代理 -->
+    <aop:aspectj-autoproxy proxy-target-class="true" />
+
+    <!-- 2.声明式事务配置 -->
+    <aop:config>
+        <aop:pointcut id="serviceMethods" expression="execution(* com.ycliu.bupt.model.service.impl.*.*(..)) || execution(* com.ycliu.bupt.model.service.*.*(..))" />
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="serviceMethods" />
+    </aop:config>
+
+    <!-- 通知 默认事务管理器：transaction-manager="transactionManager" -->
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
+       <tx:attributes>
+            <tx:method name="find*" read-only="true" />
+            <tx:method name="page*" read-only="true" />
+            <tx:method name="list*" read-only="true" />
+            <tx:method name="get*" read-only="true" />
+            <tx:method name="plot*" read-only="true" />
+            <tx:method name="login*" propagation="REQUIRED" read-only="true" />
+            <tx:method name="set*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="start*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="process*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="audit*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="add*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="save*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="update*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="edit*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="delete*" propagation="REQUIRED" rollback-for="common.toolkit.java.exception" />
+            <tx:method name="*" read-only="true" />
+        </tx:attributes>
+    </tx:advice>
+
+</beans>

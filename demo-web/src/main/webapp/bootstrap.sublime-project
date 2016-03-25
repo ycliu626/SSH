@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "D:/work/development/workspace43/bupt-organ/wisdombud-web/src/main/webapp"
+		}
+	],
+	"settings":
+    {
+            "less2css":
+            {
+                    "autoCompile": true,
+                    "lessBaseDir": "resources/less",
+                    // "main_file": "new-main.less",
+                    "minify": false,
+                    "showErrorWithWindow": true
+            },
+            "tab_size": 4
+    }
+}

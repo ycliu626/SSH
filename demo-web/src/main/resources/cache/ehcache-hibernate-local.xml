@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ehcache.xsd" updateCheck="false">
+
+    <diskStore path="java.io.tmpdir/ehcache-hibernate" />
+
+    <!-- DefaultCache setting. Modify ehcache-safe.xml for timeToIdleSeconds,timeToLiveSecond,diskExpiryThreadIntervalSeconds Use ehcache-safe.xml default for maxElementsInMemory,maxElementsOnDisk,overflowToDisk,eternal Use ehcache default for memoryStoreEvictionPolicy,diskPersistent,. -->
+    <defaultCache maxElementsInMemory="10000" overflowToDisk="true" eternal="false" memoryStoreEvictionPolicy="LRU" maxElementsOnDisk="10000000" diskExpiryThreadIntervalSeconds="600" timeToIdleSeconds="3600" timeToLiveSeconds="100000" diskPersistent="false" />
+    <!-- query cache设置为true将会创建两个缓存区域 -->
+    <!-- 一个用于保存查询结果集 -->
+    <cache name="org.hibernate.cache.StandardQueryCache" maxElementsInMemory="5" eternal="false" timeToLiveSeconds="120" overflowToDisk="false" />
+    <!-- 另一个用于保存最近查询的一系列表的时间戳 -->
+    <cache name="org.hibernate.cache.UpdateTimestampsCache" maxElementsInMemory="5000" eternal="true" overflowToDisk="true" />
+
+    <!-- base -->
+    <cache name="com.wisdombud.bupt.organization.base" maxElementsInMemory="1000" eternal="true" overflowToDisk="true" maxElementsOnDisk="10000" />
+    <!-- sys -->
+    <cache name="com.wisdombud.bupt.organization.sys" maxElementsInMemory="1000" eternal="true" overflowToDisk="true" maxElementsOnDisk="10000" />
+    <!-- sys -->
+    <cache name="com.wisdombud.bupt.organization.dic" maxElementsInMemory="1000" eternal="true" overflowToDisk="true" maxElementsOnDisk="10000" />
+
+    <cache name="com.wisdombud.bupt.organization.bulletinType" eternal="true"  maxElementsInMemory="20"  overflowToDisk="true" />
+
+	<cache name="com.wisdombud.bupt.organization.dictCollege" eternal="true"  maxElementsInMemory="100"  overflowToDisk="true" />
+
+ 	<cache name="com.wisdombud.bupt.organization.dictDegree" eternal="true"  maxElementsInMemory="20"  overflowToDisk="true" />
+
+ 	<cache name="com.wisdombud.bupt.organization.dictJobCategory" eternal="true"  maxElementsInMemory="50"  overflowToDisk="true" />
+
+ 	<cache name="com.wisdombud.bupt.organization.dictNation" eternal="true"  maxElementsInMemory="100"  overflowToDisk="true" />
+
+ 	<cache name="com.wisdombud.bupt.organization.dictPoverty" eternal="true"  maxElementsInMemory="20"  overflowToDisk="true" />
+
+ 	<cache name="com.wisdombud.bupt.organization.dictSpecialty" eternal="true"  maxElementsInMemory="1000"  overflowToDisk="true" />
+
+ 	<cache name="com.wisdombud.bupt.organization.dictSuperiorUnit" eternal="true"  maxElementsInMemory="1000"  overflowToDisk="true" />
+
+	<cache name="com.wisdombud.bupt.organization.dicScale" eternal="true"  maxElementsInMemory="1000"  overflowToDisk="true" />
+
+	<cache name="com.wisdombud.bupt.organization.dicCompanyProperty" eternal="true"  maxElementsInMemory="1000"  overflowToDisk="true" />
+	
+	<cache name="com.wisdombud.bupt.organization.dicCapitalCategory" eternal="true"  maxElementsInMemory="1000"  overflowToDisk="true" />
+
+	<cache name="com.wisdombud.bupt.organization.dicIndustry" eternal="true"  maxElementsInMemory="500"  overflowToDisk="true" />
+	
+	<cache name="com.wisdombud.bupt.organization.entityCity" eternal="true"  maxElementsInMemory="500"  overflowToDisk="true" />
+	
+	<cache name="com.wisdombud.bupt.organization.entityProvince" eternal="true"  maxElementsInMemory="500"  overflowToDisk="true" />
+	
+	<cache name="com.wisdombud.bupt.organization.entityProvinceMap" eternal="true"  maxElementsInMemory="500"  overflowToDisk="true" />
+	
+	<cache name="com.wisdombud.bupt.organization.entityIndustry" eternal="true"  maxElementsInMemory="500"  overflowToDisk="true" />
+	
+	<cache name="com.wisdombud.bupt.organization.entityNature" eternal="true"  maxElementsInMemory="500"  overflowToDisk="true" />
+	
+	<cache name="com.wisdombud.bupt.organization.entityCapacityCategory" eternal="true"  maxElementsInMemory="500"  overflowToDisk="true" />
+	
+	<cache name="com.wisdombud.bupt.organization.entityScale" eternal="true"  maxElementsInMemory="500"  overflowToDisk="true" />
+	
+    <cache name="longTimeCache" maxElementsInMemory="2000" eternal="false" timeToIdleSeconds="300" timeToLiveSeconds="900" overflowToDisk="true" />
+
+    <!-- Special objects setting. -->
+    <!-- base -->
+    <!-- <cache name="com.eryansky.entity.base.User" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.base.User.roles" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="1000000" /> <cache name="com.eryansky.entity.base.Resourceurce" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.base.Resourceurce.roles" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true"
+        diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.base.Role" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.base.Role.users" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="resourcesrces" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.base.Resource" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU"
+        eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.base.User.organs" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.base.Organ.users" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.base.Role.permissions" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> -->
+
+
+
+    <!-- sys -->
+    <!-- <cache name="com.eryansky.entity.sys.Dictionary" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.sys.Dictionary.subDictionarys" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> <cache name="com.eryansky.entity.sys.DictionaryType" maxElementsInMemory="1000" memoryStoreEvictionPolicy="LRU" eternal="true" diskPersistent="false" overflowToDisk="true" maxElementsOnDisk="100000" /> -->
+
+</ehcache>

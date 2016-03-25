@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" metadata-complete="false" version="3.0">
+    <welcome-file-list>
+        <welcome-file>home</welcome-file>
+    </welcome-file-list>
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>
+            classpath:applicationContext.xml
+        </param-value>
+    </context-param>
+    <!--     <filter>
+        <filter-name>openSessionInView</filter-name>
+        <filter-class>org.springframework.orm.hibernate3.support.OpenSessionInViewFilter</filter-class>
+        <init-param>
+            <param-name>singleSession</param-name>
+            <param-value>true</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>openSessionInView</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping> -->
+    <!-- 图片缓存30天 -->
+    <!-- <filter>
+        <filter-name>imagesCache</filter-name>
+        <filter-class>common.toolkit.java.web.filter.cache.CacheFilter</filter-class>
+        <init-param>
+            <param-name>static</param-name>
+            <param-value>true</param-value>
+        </init-param>
+        <init-param>
+            <param-name>expirationTime</param-name>
+            <param-value>2592000</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>imagesCache</filter-name>
+        <url-pattern>*.png</url-pattern>
+        <url-pattern>*.gif</url-pattern>
+        <url-pattern>*.jpg</url-pattern>
+    </filter-mapping> -->
+    <!-- css缓存7天 -->
+    <!-- <filter>
+        <filter-name>cssCache</filter-name>
+        <filter-class>common.toolkit.java.web.filter.cache.CacheFilter</filter-class>
+        <init-param>
+            <param-name>expirationTime</param-name>
+            <param-value>604800</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>cssCache</filter-name>
+        <url-pattern>*.css</url-pattern>
+    </filter-mapping> -->
+    <!-- js缓存2.5天 -->
+    <!-- <filter>
+        <filter-name>jsCache</filter-name>
+        <filter-class>common.toolkit.java.web.filter.cache.CacheFilter</filter-class>
+        <init-param>
+            <param-name>private</param-name>
+            <param-value>true</param-value>
+        </init-param>
+        <init-param>
+            <param-name>expirationTime</param-name>
+            <param-value>216000</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>jsCache</filter-name>
+        <url-pattern>*.js</url-pattern>
+    </filter-mapping> -->
+    <!-- cas login filter -->
+<!--     <filter>
+        <filter-name>CAS Filter</filter-name>
+        <filter-class>edu.yale.its.tp.cas.client.filter.CASFilter</filter-class>
+        <init-param>
+            <param-name>edu.yale.its.tp.cas.client.filter.loginUrl</param-name>
+            <param-value>http://auth.bupt.edu.cn/authserver/login</param-value>
+        </init-param>
+        <init-param>
+            <param-name>edu.yale.its.tp.cas.client.filter.validateUrl</param-name>
+            <param-value>http://auth.bupt.edu.cn/authserver/serviceValidate</param-value>
+        </init-param>
+        <init-param>
+            <param-name>edu.yale.its.tp.cas.client.filter.serverName</param-name>
+            <param-value>job.bupt.edu.cn</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>CAS Filter</filter-name>
+        <url-pattern>/cas-login</url-pattern> //给对方的url
+    </filter-mapping> -->
+    <filter>
+        <filter-name>struts2</filter-name>
+        <filter-class>org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter
+        </filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>struts2</filter-name>
+        <url-pattern>/*</url-pattern>
+        <dispatcher>REQUEST</dispatcher>
+        <dispatcher>FORWARD</dispatcher>
+        <dispatcher>INCLUDE</dispatcher>
+    </filter-mapping>
+    <!--     <filter>
+        <filter-name>UrlRewriteFilter</filter-name>
+        <filter-class>org.tuckey.web.filters.urlrewrite.UrlRewriteFilter</filter-class>
+        <init-param>
+            <param-name>logLevel</param-name>
+            <param-value>WARN</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>UrlRewriteFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping> -->
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+    <listener>
+        <listener-class>org.springframework.web.context.request.RequestContextListener</listener-class>
+    </listener>
+    <!-- 自定义listeter -->
+    <!--    <listener>
+        <listener-class>
+            com.wisdombud.bupt.organization.listener.InfoContextListener
+        </listener-class>
+    </listener> -->
+    <session-config>
+        <session-timeout>1440</session-timeout>
+    </session-config>
+    <error-page>
+        <exception-type>java.lang.Throwable</exception-type>
+        <location>/500.jsp</location>
+    </error-page>
+
+</web-app>
